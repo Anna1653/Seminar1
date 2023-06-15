@@ -1,0 +1,15 @@
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.AssemblyReference.cache
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfo.cs
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.exe
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.deps.json
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.runtimeconfig.json
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.dll
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\bin\Debug\net6.0\ConsoleApp5.pdb
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.dll
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\refint\ConsoleApp5.dll
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.pdb
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.genruntimeconfig.cache
+D:\УЧЕБА\Языки программирования\Seminar1\ConsoleApp5\obj\Debug\net6.0\ref\ConsoleApp5.dll
